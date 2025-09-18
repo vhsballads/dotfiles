@@ -1,0 +1,70 @@
+* {
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    font-family: "Iosevka Nerd Font";
+    font-weight: 500;
+    font-size: 14px;
+    padding: 0;
+    color: #eeeeee; /* default text */
+}
+
+window#waybar {
+    background: rgba(0, 0, 0, 0.35); /* semi-transparent black */
+    border: 1px solid rgba(255, 255, 255, 0.1); /* subtle border */
+    
+}
+
+tooltip {
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #eeeeee;
+}
+
+#clock,
+#tray,
+#cpu,
+#memory,
+#battery,
+#network,
+#pulseaudio {
+    margin: 6px 6px 6px 0px;
+    padding: 2px 8px;
+    background-color: rgba(0, 0, 0, 0.25); /* subtle transparency */
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#workspaces {
+    background-color: rgba(0, 0, 0, 0.25);
+    margin: 6px 0px 6px 6px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #eeeeee;
+}
+
+#workspaces button {
+    all: initial;
+    min-width: 0;
+    padding: 2px 6px;
+    color: #cccccc;
+}
+
+#workspaces button.focused {
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.15); /* subtle highlight */
+}
+
+#workspaces button.urgent {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: #ff4444; /* small accent for urgent */
+}
+
+#cpu.critical,
+#memory.critical,
+#battery.warning,
+#battery.critical,
+#battery.urgent {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #ff5555; /* red alert */
+}
+
