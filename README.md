@@ -1,6 +1,5 @@
 # Sway Dotfiles
-[![image.png](https://i.postimg.cc/J7bgsYVr/image.png)](https://postimg.cc/CdxJtNxX)
-[![image.png](https://i.postimg.cc/Sxygkf2d/image.png)](https://postimg.cc/RND7TfTJ)
+
 
 ## Setup
 
