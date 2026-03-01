@@ -5,11 +5,11 @@
 
 * OS: [Fedora Linux](https://fedoraproject.org/)
 * Shell: [Bash](https://www.gnu.org/software/bash/)
-* Wayland Compositor / WM: [SwayFX](https://github.com/WillPower3309/swayfx), a derivative of [Sway](https://github.com/swaywm/sway).
+* WM: [SwayFX](https://github.com/WillPower3309/swayfx)
 * Bar: [Waybar](https://github.com/Alexays/Waybar)
 * Launcher: [Rofi](https://github.com/davatorium/rofi)
 * Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
-* Colourscheme: [Nord](https://www.nordtheme.com/) + [Wal](https://github.com/dylanaraps/wal)
+* Colourscheme: [Wal](https://github.com/dylanaraps/wal)-based.
 * Fonts: Iosevka Nerd Font, Envy Code R (Found on [Embellish](https://github.com/getnf/embellish))
 * GTK: Nordic-Polar [GTK3](https://www.gnome-look.org/p/1267246)
 * Icons: (WhteSur-Grey-Dark [GTK3](https://github.com/vinceliuice/WhiteSur-gtk-theme))
