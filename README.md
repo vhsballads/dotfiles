@@ -1,5 +1,6 @@
 # VHSBALLADS' Dotfiles
 [![image.png](https://i.postimg.cc/x1dCdPKW/image.png)](https://postimg.cc/TpZG7gN9)
+[![image.png](https://i.postimg.cc/85ZXTNDK/image.png)](https://postimg.cc/vg6tzR4f)
 
 ## Setup
 
