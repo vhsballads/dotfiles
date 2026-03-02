@@ -1,9 +1,11 @@
-# VHSBALLADS' Dotfiles
+## bastille's configuration // la configuration du bastille
+
+Here's my Fedora config files, or personal dotfiles.
+### Screenshots
 [![image.png](https://i.postimg.cc/x1dCdPKW/image.png)](https://postimg.cc/TpZG7gN9)
 [![image.png](https://i.postimg.cc/85ZXTNDK/image.png)](https://postimg.cc/vg6tzR4f)
 
-## Setup
-
+### Setup
 * OS: [Fedora Linux](https://fedoraproject.org/)
 * Shell: [Bash](https://www.gnu.org/software/bash/)
 * WM: [SwayFX](https://github.com/WillPower3309/swayfx)
@@ -15,7 +17,7 @@
 * GTK: Nordic-Polar [GTK3](https://www.gnome-look.org/p/1267246)
 * Icons: (WhteSur-Grey-Dark [GTK3](https://github.com/vinceliuice/WhiteSur-gtk-theme))
 
-## Acknowledgements
+### Acknowledgements
 These are repositories from whom I have borrowed designs, configurations, et cetera. If there are others that I could not mention, please let me know.
 * Foundation: [OpenSUSEway](https://github.com/openSUSE/openSUSEway)
 * Waybar: [Waybar](https://github.com/Alexays/Waybar)
