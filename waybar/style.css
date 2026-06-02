@@ -24,9 +24,11 @@ tooltip {
 #clock,
 #tray,
 #cpu,
+#backlight,
 #memory,
 #battery,
 #network,
+#power-profiles-daemon,
 #pulseaudio {
     margin: 6px 6px 6px 0px;
     padding: 2px 8px;
