@@ -33,7 +33,7 @@
 <summary>./expand</summary>
 
 [![desktop](https://i.postimg.cc/x1dCdPKW/image.png)](https://postimg.cc/TpZG7gN9)
-[![desktop2](https://i.postimg.cc/ydVHC3tS/image.png)](https://postimg.cc/zLPMnvJJ)
+[![secondesktop](https://i.postimg.cc/ydVHC3tS/image.png)](https://postimg.cc/zLPMnvJJ)
 [![launcher](https://i.postimg.cc/QdyqWY8h/image.png)](https://postimg.cc/bZ1n7TSB)
 [![detail](https://i.postimg.cc/85ZXTNDK/image.png)](https://postimg.cc/vg6tzR4f)
 
