@@ -20,7 +20,7 @@
 | **Bar** | [Waybar](https://github.com/Alexays/Waybar) |
 | **Launcher** | [Rofi](https://github.com/davatorium/rofi) |
 | **Terminal** | [Kitty](https://github.com/kovidgoyal/kitty) |
-| **Colours** | [Pywal](https://github.com/dylanaraps/wal)-generated |
+| **Colours** | [Pywal](https://github.com/dylanaraps/wal) |
 | **Fonts** | Iosevka Nerd Font · Envy Code R via [Embellish](https://github.com/getnf/embellish) |
 | **GTK Theme** | [Nordic-Polar](https://www.gnome-look.org/p/1267246) |
 | **Icons** | [WhiteSur-Grey-Dark](https://github.com/vinceliuice/WhiteSur-gtk-theme) |
@@ -33,6 +33,7 @@
 <summary>./expand</summary>
 
 [![desktop](https://i.postimg.cc/x1dCdPKW/image.png)](https://postimg.cc/TpZG7gN9)
+[![desktop2](https://i.postimg.cc/ydVHC3tS/image.png)](https://postimg.cc/zLPMnvJJ)
 [![launcher](https://i.postimg.cc/QdyqWY8h/image.png)](https://postimg.cc/bZ1n7TSB)
 [![detail](https://i.postimg.cc/85ZXTNDK/image.png)](https://postimg.cc/vg6tzR4f)
 
