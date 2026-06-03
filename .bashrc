@@ -25,3 +25,9 @@ fi
 unset rc
 
 export PATH="$HOME/.cargo/bin:$PATH"
+
+export SSH_AUTH_SOCK=/home/obadiah/.bitwarden-ssh-agent.sock
+
+export SSH_AUTH_SOCK=~/.var/app/com.bitwarden.desktop/.bitwarden-ssh-agent.sock
+
+export SSH_AUTH_SOCK=/home/obadiah/.var/app/com.bitwarden.desktop/data/.bitwarden-ssh-agent.sock
