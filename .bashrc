@@ -24,10 +24,18 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
+# CARGO PATH DEFAULT
+
 export PATH="$HOME/.cargo/bin:$PATH"
+
+# DEFAULT CLIENT FOR PASSWORDS
 
 export SSH_AUTH_SOCK=/home/obadiah/.bitwarden-ssh-agent.sock
 
 export SSH_AUTH_SOCK=~/.var/app/com.bitwarden.desktop/.bitwarden-ssh-agent.sock
 
 export SSH_AUTH_SOCK=/home/obadiah/.var/app/com.bitwarden.desktop/data/.bitwarden-ssh-agent.sock
+
+# NNN SETTINGS
+
+export NO_COLOR=1
