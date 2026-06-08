@@ -22,7 +22,7 @@
 | **Terminal** | [Kitty](https://github.com/kovidgoyal/kitty) |
 | **Colours** | [Pywal](https://github.com/dylanaraps/wal) |
 | **Fonts** | Iosevka Nerd Font · Envy Code R via [Embellish](https://github.com/getnf/embellish) |
-| **GTK Theme** | [Nordic-Polar](https://www.gnome-look.org/p/1267246) |
+| **GTK Theme** | [WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme) |
 | **Icons** | [WhiteSur-Grey-Dark](https://github.com/vinceliuice/WhiteSur-gtk-theme) |
 
 ---
